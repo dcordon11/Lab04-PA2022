@@ -1,0 +1,4 @@
+﻿  Lab4_Diego_Cordón_1094021.cpp
+C:\Users\dcord\Documents\Progra Avanzada 2022\Lab4_Diego_Cordón_1094021\Lab4_Diego_Cordón_1094021\Lab4_Diego_Cordón_1094021.cpp(31,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\dcord\Documents\Progra Avanzada 2022\Lab4_Diego_Cordón_1094021\Lab4_Diego_Cordón_1094021\Lab4_Diego_Cordón_1094021.cpp(123,17): warning C4551: la llamada a la función no tiene lista de argumentos
+  Lab4_Diego_Cordón_1094021.vcxproj -> C:\Users\dcord\Documents\Progra Avanzada 2022\Lab4_Diego_Cordón_1094021\Debug\Lab4_Diego_Cordón_1094021.exe
